@@ -1,0 +1,9 @@
+# 대용량 지리 데이터
+*.gpkg
+*.geojson
+
+# 임시파일
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
